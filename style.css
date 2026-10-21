@@ -6,8 +6,18 @@
 */
 
 
-/* Make an id rule that turns the background of the 
-   red-box element to red
+/* Make a class rule that turns the background color of the 
+   red class to red
+*/
+
+
+/* Make a class rule that turns the background color of the 
+   white class to white
+*/
+
+
+/* Make a class rule that turns the background color of the 
+   blue class to blue
 */
 
 
@@ -25,12 +35,12 @@
 /* Make a class rule to:
    Set the container class to a grid 
    Make that grid have 13 rows and 2 columns
-   Add a transition for the 'transform' property
+   Add a transition for the 'transform' property with a duration of .5s
 */
 
 
-/* Make a class rule to:
-   Make the stars class use the first for ROWS
+/* Make an id rule to:
+   Make the stars element use the first for ROWS
 */
 
 
